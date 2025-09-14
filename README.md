@@ -60,3 +60,11 @@ The program is designed to work with the provided datasets. Information for each
 * **Datasets 3-7**: Main datasets of increasing difficulty for evaluation.
 
 The results, including the final 3D plot, will be generated upon successful completion of the script.
+
+## Dataset example
+
+![](original.png)
+
+## Reconstructed 3D points 
+
+![](recon_3d.png)
